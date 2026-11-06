@@ -1,0 +1,5 @@
+CYBER-COURSE 2.1 — Dark Dashboard + Nested Navigation
+Release: 2026-11-05
+Course data version unchanged: 2026.11.04-nine-course-v2
+Nine courses, 36 weeks, 144 lessons, 36 graded assessments, seven projects.
+This ZIP excludes old curriculum archive and outdated website build scripts.
